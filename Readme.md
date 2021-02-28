@@ -23,3 +23,7 @@ psql (10.4)
 Type "help" for help.
 
 postgresdb=#
+
+
+
+https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/
